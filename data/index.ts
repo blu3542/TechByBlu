@@ -76,7 +76,7 @@ export const navItems = [
       id: 1,
       title: "Apex SAT - Full Stack SAT Prep Platform",
       des: "Built full-stack SAT prep platform with React + TypeScript and Supabase for 40+ students",
-      img: "sports.png",
+      img: "Apex.jpeg",
       iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
        links: [
         {title: "Demo Video", url: "https://github.com/blu3542/query_gpt"}
@@ -86,7 +86,7 @@ export const navItems = [
       id: 2,
       title: "ChatDB - Natural Language Database Interface",
       des: "CLI application enabling natural language queries across MySQL and MongoDB using Google Gemini API",
-      img: "FriendGroup.png",
+      img: "CLI.jpg",
       iconLists: ["/python-3.svg", "/mysql.svg", "/mongodb.svg"],
       links: [
         {title: "GitHub", url: "https://github.com/blu3542/query_gpt"}
@@ -96,7 +96,7 @@ export const navItems = [
       id: 3,
       title: "Melanoma Detection Model",
       des: "Built ensemble melanoma detection system combining XGBoost and TensorFlow CNN, achieving ROC-AUC 0.92",
-      img: "FinanceTracker.png",
+      img: "ML_model.jpg",
       iconLists: ["/python-3.svg"],
       links: [
         {title: "GitHub", url: "https://github.com/rjordonez/10x-uci-datathon"}
