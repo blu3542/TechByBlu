@@ -79,7 +79,7 @@ export const navItems = [
       img: "Apex.jpeg",
       iconLists: ["/re.svg", "/ts.svg", "/tail.svg"],
        links: [
-        {title: "Demo Video", url: "https://github.com/blu3542/query_gpt"}
+        {title: "Demo Video", url: "https://youtu.be/BUxl8KEAw4c"}
       ]
     },
     {
